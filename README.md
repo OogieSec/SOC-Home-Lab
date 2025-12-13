@@ -3,10 +3,10 @@ HomeLab Setup with a Firewall, SIEM Solution, Exploitable machines and an Attack
 The lab comprises five virtual machines running on VirtualBox, each configured to perform a distinct role within the security operations workflow. <br>
 
 💻Hardware:<br>
-Processor	Intel i5<br>
-Logical Processors 	4<br>
-Memory	16 GB DDR4<br>
-Storage Space	237 gb SSD
+Xeon E5-1620<br>
+Logical Processors 	8<br>
+Memory	40 GB DDR4<br>
+Storage Space	2x 250 gb SSD
 
 # Configuration
 pfSense Router + Snort (IDS/IPS)<br>
