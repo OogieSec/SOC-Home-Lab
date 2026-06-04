@@ -8,7 +8,7 @@ Logical Processors 	8<br>
 Memory	40 GB DDR4<br>
 Storage Space	2x 250 gb SSD
 
-# Configuration
+# 🔧Configuration🔧
 pfSense(Firewall/Router/VPN)<br>
 Ubuntu(Monitoring, Logging, Compliance, Wazuh)<br>
 Windows(User workstation simulation)<br>
@@ -20,4 +20,4 @@ Kali(Adversary simulation)
 - <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=linux&logoColor=white&style=for-the-badge" /></a> Machine (**192.168.1.8**): Adversary simulation system used to execute attack campaigns and evaluate detection capabilities.
 
 
-🚨🔧🖥️🔌🌐💡📦🤖🖥️🧱🔍🎯
+🚨🖥️🔌🌐💡📦🤖🖥️🧱🔍🎯
