@@ -9,10 +9,10 @@ Memory	40 GB DDR4<br>
 Storage Space	2x 250 gb SSD
 
 # Configuration
-pfSense (Firewall/Router/VPN)<br>
-Ubuntu Desktop (Monitoring, Logging, Compliance, Wazuh)<br>
-Windows 11 (User workstation simulation)<br>
-Kali Linux (Adversary simulation)
+pfSense(Firewall/Router/VPN)<br>
+Ubuntu(Monitoring, Logging, Compliance, Wazuh)<br>
+Windows(User workstation simulation)<br>
+Kali(Adversary simulation)
 
 - <a href="https://www.pfsense.org/"><img src="https://img.shields.io/badge/pfSense-394B5A?logo=pfsense&logoColor=white" /></a> Router (**192.168.1.1**): Serves as the network gateway, routing traffic from the WAN port into VirtualBox’s internal network. It runs a firewall and IDS/IPS powered by Snort, and supports VPN management
 - <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" /></a> Server (**192.168.1.25**): Runs Wazuh SIEM/XDR for centralized security operations management, serving as the primary system overseeing the Security Operations Center (SoC)
